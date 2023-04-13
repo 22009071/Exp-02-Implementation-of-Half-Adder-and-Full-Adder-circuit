@@ -44,7 +44,8 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
+### Output:png(<img width="591" alt="Screenshot 2023-04-13 065439" src="https://user-images.githubusercontent.com/120206067/231660586-95a2829b-ad2e-4b9f-99f3-67cd46545151.png">
+)
 ### RTL
 ### TIMING DIAGRAM
 
